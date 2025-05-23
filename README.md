@@ -5,3 +5,12 @@
 ```
 '\n' - for new line
 ```
+```
+c language boiler #include <stdio.h>
+
+int main() {    
+    printf("Hello, World!\n"); 
+ return 0;
+}
+
+```
